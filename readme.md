@@ -9,9 +9,11 @@ This project consists of two Python scripts aimed at video processing tasks. The
 
 ## 1. YouTube Video Downloader and Trimmer (`tube.py`)
 
+
 ### Description:
 This Python script allows you to download a YouTube video in 1080p resolution and trim a specific portion for further analysis. The trimmed video can then be used as input for object detection and tracking.
 
+### Target video :https://www.youtube.com/watch?v=waTDxRZ93Qc
 ### Requirements:
 - Python 3.x
 - Libraries: `pytube`, `moviepy`
