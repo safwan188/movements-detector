@@ -3,6 +3,8 @@
 
 ![image](https://github.com/user-attachments/assets/cf9f4d6b-3e6d-4bbf-9c22-dda803d9f605)
 
+![image](https://github.com/user-attachments/assets/c867f5a9-9aca-407b-9c02-7f8669cb7452)
+
 This project consists of two Python scripts aimed at video processing tasks. The first script downloads and trims YouTube videos, while the second script detects and tracks objects within the video using state-of-the-art models for object detection and tracking.
 
 ## 1. YouTube Video Downloader and Trimmer (`tube.py`)
